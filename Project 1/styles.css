@@ -1,0 +1,146 @@
+h1{
+    text-align: center;
+
+}
+
+h2{
+    text-align: center;
+    /*text-size-adjust: flex;*/
+}
+
+.navbar{
+    background-color: #4d693a ;
+    justify-content: space-evenly;
+    height: 120px;
+    font-size: 35px;
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+
+}
+
+body{
+    background-color: #c2beb5;
+    align-self: center;
+
+}
+
+
+ #icecoffee{
+    size: 50px;
+    justify-content: center;
+    display: flex;
+    width: 40%;
+    padding: 20px;
+    display: flex;  
+    background-color: #fffdfa;
+    padding-bottom: 20px;
+    box-shadow: 10px 5px 5px #2f332d;
+    border-radius: 25px;
+    margin: 20px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    align-content: center;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+/*#espresso{
+    size: 50px;
+    justify-content: center;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    padding: 20px;
+}
+#latte{
+    size: 50px;
+    justify-content: center;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    padding: 20px;
+}
+#matcha{
+    size: 50px;
+    justify-content: center;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    padding: 20px;
+} */
+
+p{
+    text-align: center;
+    background-color:#fffdfa ;
+    display: flex;
+    border-radius: 5px;
+
+
+
+}
+
+.Dlanding{
+    background-color:#C17303;
+    display: flex;
+    align-items: center;
+    border-radius: 40px;
+    display: flex;  
+   padding-bottom: 20px;
+   box-shadow: 10px 5px 5px #2f332d;
+   border-radius: 25px;
+   margin: 20px;
+   justify-content: center;
+   align-items: center;
+   align-content: center;
+   box-sizing: content-box;
+   /*flex-wrap: wrap;*/
+
+}
+.drinks{
+  display: flex;  
+  background-color: #fffdfa;
+  padding-bottom: 20px;
+  box-shadow: 10px 5px 5px #2f332d;
+  border-radius: 25px;
+  margin: 20px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  align-content: center;
+  flex-wrap: wrap;
+  
+  
+}
+.drinks img{
+    flex: 10%;
+    display: flex;
+    width: 400px;
+
+}
+.media{
+    background-color: #4d693a;
+    justify-content: space-evenly;
+    font-size: 30px;
+    display: flex;
+    height: 50px;
+    align-items: center;
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height:30px;
+    width:100%;
+}
+#footer {
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height:30px;
+    width:100%;
+
+}
